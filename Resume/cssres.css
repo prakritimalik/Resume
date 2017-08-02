@@ -1,0 +1,52 @@
+
+
+body {
+background-color: #F0F8FF
+}
+
+#header {
+    background-color:#B0E0E6    ;
+    border-radius: 5px;
+color:#00008B;
+}
+
+#name {
+    margin-top: 60px;
+    text-align:right;
+    padding:2.5px;
+}
+
+#number { margin-top: 0px;
+text-align:right;
+    padding:2.5px; }
+
+#email{
+    margin-top:0px;
+    text-align:right;
+    padding:2.5px;
+}
+
+table
+{
+    border: 1px dashed black;
+    margin : 20px;    }
+td,th
+{
+    padding: 2px;
+    border: 2px solid mediumblue;
+    }
+
+
+.head { padding: 20px; 
+color:blue;
+font-weight:700;}
+
+#id {padding-top:100px;}
+
+.int {
+    color: red;
+}
+
+#foot {
+    margin-left : 20px;
+}
